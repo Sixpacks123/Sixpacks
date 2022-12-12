@@ -20,9 +20,9 @@
   </p>
 </p>
 <p/>
+<p>
 - 👋 Hi, I’m Heurtault Aubin
-- 👀 I'm junior fullstack devlopper
-<p/>
+- 👀 I'm junior fullstack devlopper <p/>
 - 💞️ I’m looking to collaborate on any web project
 - 📫 How to reach me 
 

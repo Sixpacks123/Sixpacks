@@ -20,12 +20,6 @@
   </p>
 </p>
 <p>
-- 👋 Hi, I’m Heurtault Aubin
-- 👀 I'm junior fullstack devlopper
-- 💞️ I’m looking to collaborate on any web project
-- 📫 How to reach me 
-</p>
-<p>
     <a href="https://www.linkedin.com/in/aubin-heurtault-a1a966202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
     
 ![](https://komarev.com/ghpvc/?username=Sixpacks123&style=flat-square&color=38bdae)
